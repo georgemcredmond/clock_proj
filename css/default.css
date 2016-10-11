@@ -1,0 +1,20 @@
+body {
+	background:url("clock.jpg");	
+	filter: blur 5px;
+}
+
+#txt {
+	font-family: 'Play', sans-serif;
+	font-size: 140px;
+	color: red;
+	text-align: center;
+	margin-top: 50px;
+	text-shadow: 0 0 10px white;
+}
+
+#greeting {
+	color: white;
+	text-align:center;
+	font-family: 'Impact';
+	font-size: 22px;
+}
